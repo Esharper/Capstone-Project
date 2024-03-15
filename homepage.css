@@ -1,0 +1,40 @@
+/* Custom CSS */
+/* Add your custom styles here */
+
+body {
+  background-color: #f8f9fa; /* Light gray background */
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #343a40 !important; /* Dark navbar background */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ffffff !important; /* White text for navbar links */
+}
+
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important; /* White text on hover */
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #007bff; /* Blue heading color */
+}
+
+.btn-primary {
+  background-color: #007bff; /* Blue button background */
+  border-color: #007bff; /* Blue button border */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+  border-color: #0056b3;
+}
+
